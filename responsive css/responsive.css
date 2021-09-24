@@ -243,17 +243,29 @@
     }
     input[type="text"] {
         margin-bottom: 10px;
+        margin-left: 0;
     }
     input[type="email"] {
         margin-bottom: 10px;
+        margin-left: 0;
+
     }
     input[type="tel"] {
-        margin-bottom: 10px;
+        margin-bottom: 0px;
+        margin-left: 0;
     }
     input[type="submit"] {
         padding: 5px 30px;
         margin-top: 10px;
         margin-bottom: 15px;
+        margin-left: 0;
+
+    }
+    textarea {
+        width: 100%;
+        margin: 10px;
+        padding: 5px;
+        margin-left: 0;
     }
     .map h2 {
         margin-top: 5px;
@@ -261,6 +273,8 @@
     }
     iframe {
         margin-top: 20px;
+        margin-left: 0;
+
     }
     .footer_section ul {
         margin-top: 15px;
