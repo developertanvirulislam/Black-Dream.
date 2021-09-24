@@ -270,3 +270,109 @@
     }
 }
 
+@media (max-width:1000px){
+
+    .banner_imgh2 h2 {
+        font-size: 16px;
+        margin-left: 30px;
+        width: 100%;
+    }
+    .banner_imgh1 h1 {
+        font-size: 15px !important;
+        margin-left: 30px;
+    }
+
+    .banner_img_text p {
+        font-size: 12px;
+        padding: 15px 30px;
+        width: 125%;
+    }
+    .word span {
+        font-size: 15px;
+    }
+    .ml6 .text-wrapper {
+        font-size: 25px;
+    }
+    .col-xl-7.blackdream_menu {
+        max-width: 81px;
+    }
+    .logo_div img {
+        max-width: 80%;
+        margin-left: 0px;
+    }
+    ul.navbar-nav.mr-auto {
+        width: 140px;
+        margin-left: -84px;
+    }
+    .we_probide h1 {
+        font-size: 23px;
+        margin-top: 11px;
+    }
+    .we_probide span {
+        font-size: 18px;
+        letter-spacing: 4px;
+    }
+    .we_probide p {
+        font-size: 14px;
+        margin-bottom: 30px;
+    }
+    .mission_text h2 {
+        font-size: 23px;
+    }
+    .mission_text h1 {
+        font-size: 30px;
+    }
+    .choose_text_head h2 {
+        font-size: 23px;
+    }
+    .black_dream_group_head {
+        font-size: 23px;
+    }
+    .console-container {
+        font-size: 35px;
+    }
+    b {
+        font-size: 31px;
+    }
+    .console-underscore {
+        display: inline-block;
+        position: relative;
+        top: 5px;
+        left: 0;
+        color: orange;
+        font-weight: 55;
+        font-size: 35px;
+        vertical-align: text-bottom;
+    }
+
+    .console-underscore {
+        top: 5px;
+        font-size: 35px;
+    }
+    .expert h3 {
+        font-size: 16px;
+    }
+    .expert h1 {
+        font-size: 25px;
+    }
+    h3.card-title {
+        font-size: 19.5px !important;
+    }
+    .counter_head h1 {
+        font-size: 15px;
+        margin-bottom: 0;
+    }
+    .counter_head h4 {
+        font-size: 13px;
+        margin-bottom: 35px;
+    }
+    .our_chnnel {
+        padding: 40px 0px;
+    }
+    .our_chnnel h2 {
+        font-size: 22px;
+        top: -65px;
+    }
+
+}
+
